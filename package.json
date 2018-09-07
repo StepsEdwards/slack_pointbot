@@ -1,0 +1,11 @@
+{
+  "name": "slack_pointbot",
+  "version": "1.0.0",
+  "description": "a slackbot for keeping track of NSBE member points",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stephens Jean-Jacques",
+  "license": "ISC"
+}
